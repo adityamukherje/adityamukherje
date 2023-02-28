@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityamukherje
+- 👋 Hi, I’m @adityamukherjee
 - 👀 I’m interested in ...web devloping
 - 🌱 I’m currently learning ...html, css, bootstrap, java script
 - 💞️ I’m looking to collaborate on ...
