@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityamukherjee
 - 👀 I’m interested in ...web devloping
-- 🌱 I’m currently learning ...html, css, bootstrap, java script
+- 🌱 I’m currently learning ...html, css, bootstrap, tailwind , java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my email id is adityamukherjee96@gmail.com my whatsapp number is 9830817036
 
